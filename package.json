@@ -1,0 +1,22 @@
+{
+  "name": "materialize-docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@materializecss/materialize": "^2.0.0-alpha",
+    "timeago": "^1.6.7",
+    "timeago.js": "^4.0.2"
+  },
+  "devDependencies": {
+    "ts-loader": "^9.4.2",
+    "webpack": "^5.81.0",
+    "webpack-cli": "^5.0.2"
+  }
+}
