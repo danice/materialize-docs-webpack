@@ -29,7 +29,8 @@ module.exports = {
   output: {
     filename: 'init.js',
     path: path.resolve(__dirname, 'js'),
-    libraryTarget: 'umd',    
-    library: 'M'
+  }, 
+  optimization: {
+    minimize: false,
   }
 };

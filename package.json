@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@materializecss/materialize": "^2.0.0-alpha",
+    "@materializecss/materialize": "^2.0.1-alpha",
     "timeago": "^1.6.7",
     "timeago.js": "^4.0.2"
   },
